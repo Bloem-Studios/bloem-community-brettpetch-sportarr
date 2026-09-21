@@ -1,3 +1,12 @@
+## Bloem community build
+
+This is Bloem's community build of [brettpetch/silo-plugin-sportarr](https://github.com/brettpetch/silo-plugin-sportarr) by **brettpetch**
+(contributors: brettpetch). It is ported to the Bloem plugin SDK and listed in the
+Bloem community plugin catalog. All credit for the plugin goes to its author; please
+report plugin behavior issues upstream. See [NOTICE](NOTICE) for provenance.
+
+---
+
 # Silo Sportarr Plugin
 
 First-party Silo metadata plugin backed by [Sportarr](https://sportarr.net). Provides sports league metadata as TV shows, with series, seasons, and episodes mapped from leagues, seasons, and events.

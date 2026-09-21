@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	publicmanifest "github.com/Silo-Server/silo-plugin-sdk/pkg/pluginsdk/manifest"
+	publicmanifest "github.com/Bloem-Studios/bloem-plugin-sdk/pkg/pluginsdk/manifest"
 )
 
 func TestManifestLoads(t *testing.T) {

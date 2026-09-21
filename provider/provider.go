@@ -4,7 +4,7 @@ import (
 	"context"
 	"sort"
 
-	"github.com/Silo-Server/silo-plugin-sportarr/metadata"
+	"github.com/Bloem-Studios/bloem-community-brettpetch-sportarr/metadata"
 )
 
 type Provider struct {
